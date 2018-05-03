@@ -1,0 +1,15 @@
+{
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatOnSave": false,
+    "go.formatTool": "goreturns",
+    "editor.fontSize": 16,
+    "window.openFilesInNewWindow": "on",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 1,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "python.linting.pylintEnabled": false
+}
